@@ -15,6 +15,7 @@ XXXXX-XXX
 
 ![Captura de tela Cep correto](https://github.com/user-attachments/assets/914ffabc-2b58-4c0b-98e7-b7289f36c6a1)
 
+### Imagem do Cep incorreto:
 
-### Imagem do Cep incorreto
+![Captura de tela Cep incorreto](https://github.com/user-attachments/assets/9b3ee839-1ff6-45be-9a18-fe049137f721)
 
