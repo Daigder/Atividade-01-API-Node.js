@@ -11,3 +11,10 @@ No Javascript ficará: const cepRegex = /^[0-9]{5}-?[09]{3}$/;
 Para validar o cep informado contra a expressão regular usaremos cepRegex.test(cep), caso não seja válido deveremos retornar um status http 400 com a mensagem "CEP inválido. Formato:
 XXXXX-XXX
 
+### Imagem do Cep correto:
+
+![Captura de tela Cep correto](https://github.com/user-attachments/assets/914ffabc-2b58-4c0b-98e7-b7289f36c6a1)
+
+
+### Imagem do Cep incorreto
+
