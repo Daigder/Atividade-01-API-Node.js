@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
     res.send ('Hello world');
 });
 
-app.get ('/consulta-cep/:cep', async (req, res) => {
+app.get ('/consulta-cep/:cep', async (req, res) => { 
 const cep = req.params.cep; // Obtendo o CEP da URL
 const cepRegex = /^[0-9]{5}-?[0-9]{3}$/;
     
